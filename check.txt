@@ -1,8 +1,5 @@
 first
 second
 third
-<<<<<<< HEAD
-=======
 fourth
 fifth
->>>>>>> parent of bc53a82 (tilten)
