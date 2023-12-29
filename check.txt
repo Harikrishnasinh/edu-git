@@ -1,14 +1,3 @@
 first
 second
-<<<<<<< HEAD
 third
-fourth
-fifth
-sixth
-seventh
-eighth
-nine 
-ten
-=======
-third
->>>>>>> parent of 23aaa42 (fifthadded)
