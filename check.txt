@@ -2,6 +2,7 @@ first
 second
 <<<<<<< HEAD
 third
+<<<<<<< HEAD
 fourth
 fifth
 <<<<<<< HEAD
@@ -15,3 +16,5 @@ ten
 third
 >>>>>>> parent of 23aaa42 (fifthadded)
 >>>>>>> parent of 0a14963 (done)
+=======
+>>>>>>> parent of 3502d18 (bhagyesh commit)
