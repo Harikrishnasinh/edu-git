@@ -1,8 +1,5 @@
 first
 second
 third
-<<<<<<< HEAD
 fourth
-fifth
-=======
->>>>>>> newbranch
+eleven
